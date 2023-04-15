@@ -11,7 +11,7 @@ Mis áreas de interés tienen como punto de unión Python, concentrando mis estu
 * Front-end: **Javascript** - **Vue** - **HTML y CSS** - **Bootstrap**
 
 Me encuentro en búsqueda de mi primer trabajo en desarrollo, *soy estudioso y de rápido aprendizaje*.
-
+> Cursando este semestre un bootcamp Full Stack con Django en horario vespertino
 
 <!--
 **yorch-dev/yorch-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
