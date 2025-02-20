@@ -8,7 +8,7 @@ Actualmente y desde hace unos años, me encuentro desarrollando habilidades en p
 
 Mis áreas de interés tienen como punto de unión Python, concentrando mis estudios en las siguientes tecnologías:
 * Back-end: **Python** - **Django** - **PostgreSQL**
-* Front-end: **Javascript** - **HTML y CSS** - **Bootstrap**
+* Front-end: **Javascript** - **HTML** - **CSS** - **Bootstrap**
 
 Me encuentro en búsqueda de mi primer trabajo en desarrollo, *soy estudioso y de rápido aprendizaje*.
 > Cursando este semestre un bootcamp Full Stack con Django en horario vespertino
