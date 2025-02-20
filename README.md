@@ -1,6 +1,6 @@
 <h1 align="center">Hola, mi nombre es Jorge. Bienvenido/a a mi perfil 👋💻</h1>
 
-He trabajado mayormente en análisis de datos, planificación y gestión, para contact centers.
+He trabajado mayormente en análisis de datos, planificación y gestión de recursos, para contact centers.
 
 Actualmente y desde hace unos años, me encuentro desarrollando habilidades en programación, con enfoque en 2 áreas:
 * Desarrollo web
