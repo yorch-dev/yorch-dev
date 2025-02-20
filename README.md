@@ -10,8 +10,6 @@ Mis áreas de interés tienen como punto de unión Python, concentrando mis estu
 * Back-end: **Python** - **Django** - **PostgreSQL**
 * Front-end: **Javascript** - **HTML** - **CSS** - **Bootstrap**
 
-Me encuentro en búsqueda de mi primer trabajo en desarrollo, *soy estudioso y de rápido aprendizaje*.
-> Cursando este semestre un bootcamp Full Stack con Django en horario vespertino
 
 
 <p align="center">
