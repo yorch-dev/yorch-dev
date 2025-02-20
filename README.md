@@ -9,6 +9,7 @@ Actualmente y desde hace unos años, me encuentro desarrollando habilidades en p
 Mis áreas de interés tienen como punto de unión Python, concentrando mis estudios en las siguientes tecnologías:
 * Back-end: **Python** - **Django** - **PostgreSQL**
 * Front-end: **Javascript** - **HTML** - **CSS** - **Bootstrap**
+* Análisis de datos: **Python** - **Excel avanzado** - **Power Bi**
 
 
 
